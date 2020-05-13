@@ -1,6 +1,5 @@
 #  Web Mining Project
-###  By Akshay Kumar (17BCE1290) 
-
+###  By Akshay Kumar
 > This project provides an insight on the Covid-19 cases in the state of Tamil Nadu,India up to 4th May 2020.
 
 
